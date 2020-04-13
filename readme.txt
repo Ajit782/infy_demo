@@ -1,1 +1,1 @@
-welcome to gitpush project
+welcome to github project
