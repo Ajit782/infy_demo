@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-7H6C2GA" name="test.AmazonTest" tests="1" failures="0" timestamp="11 Apr 2020 13:05:19 GMT" time="0.016" errors="0">
+  <testcase name="@BeforeSuite beforeSuite" time="0.0" classname="test.AmazonTest">
+    <failure type="java.lang.NullPointerException">
+      <![CDATA[java.lang.NullPointerException
+	at core.BaseTestCase.startAppium(BaseTestCase.java:133)
+	at core.BaseTestCase.beforeSuite(BaseTestCase.java:146)
+... Removed 18 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="@BeforeMethod beforeMethod" time="0.0" classname="test.AmazonTest">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterMethod afterMethod" time="0.0" classname="test.AmazonTest">
+    <skipped/>
+  </testcase>
+  <testcase name="testSearchAndCompare" time="0.002" classname="test.AmazonTest">
+    <skipped/>
+  </testcase>
+</testsuite>
